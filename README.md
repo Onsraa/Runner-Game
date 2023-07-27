@@ -16,7 +16,6 @@ Runner Game is a fast-paced action-adventure game developed in Unity, where play
 
 1. Ensure you have Unity 2021.3.22f1 installed at least.
 2. Clone the repository:
-3. 
     ```
     git clone https://github.com/Onsraa/Runner-Game.git
     ```

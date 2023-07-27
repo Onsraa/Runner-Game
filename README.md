@@ -8,7 +8,7 @@ Runner Game is a fast-paced action-adventure game developed in Unity, where play
 
 - **Dynamic Movement**: Engage in fluid movements like walking, running, dashing, and more.
 - **Acrobatics**: Experience the thrill of wall walking, sliding, and precise jumps.
-- **Firepower**: Shoot at targets to activate event.
+- **Firepower**: Shoot at targets to activate events.
 - **Tutorials**: Begin your journey with an intuitive movement tutorial.
 - **Playground Levels**: Master your skills through three different playgrounds, each highlighting a specific game mechanic.
 

@@ -1,4 +1,4 @@
-# Runner Game - Unity Project
+# Runner Game - Unity Project 🏃‍♂️⚡
 
 ## Introduction
 

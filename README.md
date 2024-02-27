@@ -27,9 +27,9 @@ Runner Game is a fast-paced action-adventure game developed in Unity, where play
 
 - **W/A/S/D** or **Arrow Keys**: Move
 - **Space**: Jump
-- **Shift**: Dash
+- **E**: Dash
 - **Ctrl**: Slide
-- **RMB (Right Mouse Button)**: Shoot
+- **RMB (Left Mouse Button)**: Shoot
 
 ## Levels
 
